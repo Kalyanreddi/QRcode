@@ -8,7 +8,7 @@ body{
 }
 
 .top{
-    margin: 12% 40%;
+    margin: 12% 38%;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     padding-top: 17px;
@@ -25,9 +25,9 @@ img{
 }
 
 .Font-Heading{
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     font-weight: 700;
-    width: 80%;
+    width: 68%;
     margin: 10px auto 0px;
 }
 .Font-Body{
